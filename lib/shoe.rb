@@ -30,6 +30,7 @@ class Shoe
   def condition
     @condition
   end
-    def coddle
+    def cobble
+      puts 
   end
 end
