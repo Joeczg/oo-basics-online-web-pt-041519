@@ -31,4 +31,5 @@ class Shoe
     @condition
   end
     def coddle
+  end
 end
