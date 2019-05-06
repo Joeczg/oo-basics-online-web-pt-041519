@@ -31,6 +31,6 @@ class Shoe
     @condition
   end
     def cobble
-      puts 
+      puts "Your shoes is good at new"
   end
 end
